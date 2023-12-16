@@ -1,0 +1,85 @@
+
+#p1
+{
+    background-color: rgb(90, 207, 12);
+    font-family:b titr;
+    font-size: 60px;
+    text-align: center;
+    margin: 0%;
+    border-radius: 15px;
+    text-shadow: 6px 6px 9px rgb(212, 25, 34);
+}
+#heder{
+    background-color: maroon;
+    text-align: center;
+    direction: rtl;
+    font-family: b nazanin;
+    border-radius: 15px;
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serifnazanin;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 15px;
+}
+#janebi{
+    border-radius: 15px;
+    background-color: rgb(208, 171, 92);
+   
+    
+    text-align: center;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+ }
+ body{
+    direction:rtl ;
+    border-radius: 15px;
+ }
+ #akse{
+    width: 25px;
+    margin: 20px;
+    height: 65px;
+    width: 85px;
+    padding: 1px;
+    border-radius: 15px;
+ }
+ #jed{
+    background-color: blueviolet;
+    text-align: center;
+    border-radius: 15px;
+ }
+ #ban{
+    background-color: darkmagenta;
+    border-radius: 15px;
+ }
+ #manitor{
+    background-color: brown;
+    width: 35%;
+    display: inline-block;
+   margin: 25px;
+   border-radius: 15px;
+    padding: 1px;
+ }
+ #akhar{
+   background-color: rgb(25, 184, 212);
+   
+   text-align: center;
+   margin: 5px;
+   
+   
+   font-family: b nazanin;
+   border-radius: 15px;
+}
+#tesiee{
+   text-align: center;
+   background-color: lightblue;
+   margin: 5px;
+   
+   padding: 25px;
+   font-family: b nazanin;
+   font-size: 30px;
+   text-decoration: none;
+   border-radius: 15px;
+}
